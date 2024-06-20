@@ -2,6 +2,7 @@
 Library that implements the Quaternions type and some arithmetic operators on them.
 
 The quaternions are of the form a+bi+cj+dk and their operations are:
+
 -Sum:
 ```C1(+)C2: (a1+b1i+c1j+d1k)+(a2+b2i+c2j+d2k) = (a1+a2)+(b1+b2)i+(c1+c2)j+(d1+d2 )k```
 
