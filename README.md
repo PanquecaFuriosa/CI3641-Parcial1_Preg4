@@ -25,7 +25,7 @@ Quaternion addition and product operations can also be performed with integers o
 ## Example of use:
 Follow the steps below to use the library.
 1. **Import the library**:<br>
-  ```from Quaternions import Quaternions```<br>
+  ```from Cuaterniones import Cuaterniones```<br>
 
 2. **Use the data type Cuaterniones**:<br>
   ```Cuaterniones(1, 2, 3, 4)```<br>
