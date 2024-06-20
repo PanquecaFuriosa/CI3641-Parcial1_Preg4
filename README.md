@@ -27,7 +27,7 @@ Follow the steps below to use the library.
 1. **Import the library**:<br>
   ```from Quaternions import Quaternions```<br>
 
-2. **Use the data type Cuaterniones**:
+2. **Use the data type Cuaterniones**:<br>
   ```Cuaterniones(1, 2, 3, 4)```<br>
 
 ## Requirements:
