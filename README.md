@@ -23,8 +23,12 @@ Quaternion addition and product operations can also be performed with integers o
   ```x(*)C1: (a1 * x) + bi + cj + dk```<br>
 
 ## Example of use:
-from Quaternions import Quaternions
-Cuaterniones(1, 2, 3, 4)
+Follow the steps below to use the library.
+1. **Import the library**:<br>
+  ```from Quaternions import Quaternions```<br>
+
+2. **Use the data type Cuaterniones**:
+  ```Cuaterniones(1, 2, 3, 4)```<br>
 
 ## Requirements:
 - Python
