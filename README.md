@@ -28,3 +28,4 @@ Cuaterniones(1, 2, 3, 4)
 
 ## Requirements:
 - Python
+- Future module
